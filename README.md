@@ -2,4 +2,4 @@
 
 - It's a me, Mario!
 - Don't forget Luigi!
-    - (Link){www.youtube.com}
+    - [Link](www.youtube.com)
